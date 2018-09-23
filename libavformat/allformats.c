@@ -147,6 +147,7 @@ static void register_all(void)
     REGISTER_MUXDEMUX(H261,             h261);
     REGISTER_MUXDEMUX(H263,             h263);
     REGISTER_MUXDEMUX(H264,             h264);
+    REGISTER_MUXDEMUX(R264,             r264);
     REGISTER_MUXER   (HASH,             hash);
     REGISTER_MUXER   (HDS,              hds);
     REGISTER_MUXDEMUX(HEVC,             hevc);
