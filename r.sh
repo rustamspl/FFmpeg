@@ -1,2 +1,2 @@
 #test2
-./configure --disable-everything --enable-encoder=PCM  --enable-decoder=PCM && make
+./configure --disable-doc  --disable-everything --enable-encoder=PCM  --enable-decoder=PCM && make
